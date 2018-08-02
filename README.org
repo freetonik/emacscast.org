@@ -1,0 +1,13 @@
+* EmacsCast
+
+A podcast about exploring Emacs with beginner's mind.
+
+[[./cover.jpg]]
+
+** Episodes
+
+   - [[episode_1.org][Episode 1 - The Right Mindset for Emacs]]
+   - Episode 2 - Config in Org format (coming soon)
+
+** Contributions
+   Please, send feedback, suggestions and ideas to [[mailto:emacscast@rakhim.org][emacscast@rakhim.org]].

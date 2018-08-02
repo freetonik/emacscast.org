@@ -1,28 +1,20 @@
-#+TITLE: EmacsCast Episode 1
-#+AUTHOR: Rakhim Davletkaliyev
-
 * EmacsCast Episode 1
 
 - Play online
 - Download mp3
 - RSS
+- iTunes/Apple Podcasts link coming soon (pending approval)
 
-* Shownotes
+** Shownotes
 
-** [[https://en.wikipedia.org/wiki/Shoshin][Beginner's Mind]]
+   - [[https://en.wikipedia.org/wiki/Shoshin][Beginner's Mind]]
+   - [[https://zenhabits.net/beginner/][Approaching Life with Beginner’s Mind]] by Leo Babauta
+   - [[https://www.emacswiki.org/emacs/EmacsPodcasts][Two Emacs podcasts]]
+   - [[https://en.wikipedia.org/wiki/Dendy_(console)][Dendy console]], a Taiwanese clone of NES (not SNES, like I said in the episode). The Keyboard version was called Subor and it looked [[https://i.imgur.com/TBpyRxi.jpg][like this]].
+   - [[https://www.sublimetext.com/][Sublime Text Editor]]
 
-** [[https://zenhabits.net/beginner/][Approaching Life with Beginner’s Mind]] by Leo Babauta
+** Plans for the next episode
 
-** [[https://www.emacswiki.org/emacs/EmacsPodcasts][Two Emacs podcasts]]
-
-** [[https://en.wikipedia.org/wiki/Dendy_(console)][Dendy console]], a Taiwanese clone of NES (not SNES, like I said in the episode). The Keyboard version was called Subor and it looked [[https://i.imgur.com/TBpyRxi.jpg][like this]].
-
-** [[https://www.sublimetext.com/][Sublime Text Editor]]
-
-* Plans for the next episode
-
-** My configuration in org format
-
-** How org-babel helps
-
-** Quick overview of initial sane default and packages
+   - My configuration in org format
+   - How org-babel helps
+   - Quick overview of initial sane default and packages
