@@ -1,0 +1,23 @@
+* EmacsCast Episode 2
+
+- [[http://emacscast.rakhim.org/episode/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61][Play online]]
+- [[https://pinecast.com/listen/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61][Download mp3]]
+- [[https://pinecast.com/feed/emacscast][RSS]]
+- iTunes/Apple Podcasts link coming soon (pending approval)
+
+** Shownotes
+
+   - [[https://github.com/freetonik/emacs-dotfiles/blob/18520ca70a7d00f413154c4b2b19b28438af24f7/init.org][My config]] as of Aug 3, 2018 when this episode aired
+   - [[https://github.com/freetonik/emacs-dotfiles][My current config]]
+   - [[http://aquamacs.org/][Aquamacs]], macOS-specific Emacs build
+   - [[https://emacsformacosx.com/][Emacs For Mac OS X]], pure Emacs, no nonsense
+   - [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html][The Emacs Initialization File]], like =.emacs= or =.emacs.d/init.el=
+   - [[https://github.com/larstvei/dot-emacs][Lars Tveito's config]]
+   - [[https://github.com/hrs/dotfiles/tree/master/emacs/.emacs.d][Harry R. Schwartz's config]]. Harry's [[https://www.youtube.com/watch?v=SzA2YODtgK4][talk about org-mode]] is excellent, by the way.
+   - [[http://melpa.org/][melpa]] - Milkypostman’s Emacs Lisp Package Archive
+
+** Plans for the next episode
+
+   - Hopefully, reviewing feedback from listeners :-)
+   - Good resources for beginners: Emacs, Org Mode, configs
+   - Basics of org-mode, maybe?
