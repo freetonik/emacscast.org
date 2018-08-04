@@ -4,7 +4,7 @@
 - [[https://pinecast.com/listen/dad4f44c-901d-469b-8a8a-a4a890933ac2][Download mp3]]
 - [[https://youtu.be/7vC8al1ZZz8][Listen on YouTube]]
 - [[https://pinecast.com/feed/emacscast][RSS]]
-- iTunes/Apple Podcasts link coming soon (pending approval)
+- [[https://itunes.apple.com/fi/podcast/emacscast/id1421123475][iTunes/ApplePodcasts]]
 
 ** Shownotes
 
