@@ -1,10 +1,14 @@
 * EmacsCast Episode 1
 
+Pilot episode: let's talk about who this podcast is for, why I make it and how my obsession with tools was somewhat fixed when I tried Emacs.
+
 - [[http://emacscast.rakhim.org/episode/dad4f44c-901d-469b-8a8a-a4a890933ac2][Play online]]
 - [[https://pinecast.com/listen/dad4f44c-901d-469b-8a8a-a4a890933ac2][Download mp3]]
 - [[https://youtu.be/7vC8al1ZZz8][Listen on YouTube]]
+
 - [[https://pinecast.com/feed/emacscast][RSS]]
 - [[https://itunes.apple.com/fi/podcast/emacscast/id1421123475][iTunes/ApplePodcasts]]
+- [[https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%253DEmacsCast%2526pcampaignid%253DMKT-na-all-co-pr-mu-pod-16][Google Play]]
 
 ** Shownotes
 

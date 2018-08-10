@@ -1,10 +1,14 @@
 * EmacsCast Episode 2
 
+I explain my setup, configuration with Org-babel and packages I have at the moment. It's a simple, but flexible starting point for beginners, I think.
+
 - [[http://emacscast.rakhim.org/episode/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61][Play online]]
 - [[https://pinecast.com/listen/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61][Download mp3]]
 - [[https://youtu.be/sbAsyQnHsGw][Listen on YouTube]]
+
 - [[https://pinecast.com/feed/emacscast][RSS]]
 - [[https://itunes.apple.com/fi/podcast/emacscast/id1421123475][iTunes/ApplePodcasts]]
+- [[https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%253DEmacsCast%2526pcampaignid%253DMKT-na-all-co-pr-mu-pod-16][Google Play]]
 
 ** Shownotes
 

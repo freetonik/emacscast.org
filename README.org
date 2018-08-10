@@ -8,6 +8,12 @@ A podcast about exploring Emacs with beginner's mind.
 
    - [[episode_1.org][Episode 1 - The Right Mindset for Emacs]]
    - [[episode_2.org][Episode 2 - Config in Org format]]
+   - [[episode_3.org][Episode 3 - Org-mode]]
+
+** Subscribe
+   - [[https://pinecast.com/feed/emacscast][RSS]]
+   - [[https://itunes.apple.com/fi/podcast/emacscast/id1421123475][iTunes/ApplePodcasts]]
+   - [[https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%253DEmacsCast%2526pcampaignid%253DMKT-na-all-co-pr-mu-pod-16][Google Play]]
 
 ** Contributions
    Please, send feedback, suggestions and ideas to [[mailto:emacscast@rakhim.org][emacscast@rakhim.org]].
