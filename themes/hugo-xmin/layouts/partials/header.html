@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    <meta name="apple-itunes-app" content="app-id=1421123475">
+    <link rel="alternate" type="application/rss+xml" title="Podcast Feed" href="https://pinecast.com/feed/emacscast">
+    <link rel="canonical" href="https://emacscast.org/">
+
+    <meta property="og:locale" content="en-US">
+    <meta property="og:title" content="EmacsCast">
+    <meta property="og:site_name" content="EmacsCast">
+    <meta property="og:url" content="https://emacscast.org/">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Exploring the world of Emacs as a beginner, learning how to grow a wonderful tool out of raw materials and with the help of the community.">
+    <meta property="og:image" content="https://storage.pinecast.net/podcasts/covers/9d231ca0-2104-44f7-86ef-23a44c78f6e3/cover.jpg">
+
+    <meta name="twitter:title" content="EmacsCast">
+    <meta name="twitter:site" content="@freetonik">
+    <meta name="twitter:description" content="Exploring the world of Emacs as a beginner, learning how to grow a wonderful tool out of raw materials and with the help of the community.">
+    <meta name="twitter:image" content="https://storage.pinecast.net/podcasts/covers/9d231ca0-2104-44f7-86ef-23a44c78f6e3/cover.jpg">
+
+    {{ if isset .Params "file_id" }}
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:description" content="{{ .Title }}">
+    <meta name="twitter:image" content="https://storage.pinecast.net/podcasts/covers/{{ .Site.Params.pinecast_cover_img_id }}/cover.jpg">
+    <meta name="twitter:player" content="https://pinecast.com/player/{{ .Params.file_id }}?theme=slim&card=true">
+    <meta name="twitter:player:width" content="480">
+    <meta name="twitter:player:height" content="20">
+    <meta name="twitter:player:stream" content="https://pinecast.com/listen/{{ .Params.file_id }}">
+    <meta name="twitter:player:stream:content_type" content="audio/mp3">
+    {{ end }}
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+  </head>
+
+  <body>
+    <h1 class="brand"><a href="/">EmacsCast</a></h1>
+    <p>A podcast about the fabled extensible text editor.</p>
+    <nav>
+    <ul class="menu">
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+    <hr/>
+    </nav>

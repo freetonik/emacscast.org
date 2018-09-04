@@ -1,0 +1,108 @@
+#+TITLE: EmacsCast Episodes
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: blog
+#+SEQ_TODO: TODO DRAFT DONE
+#+PROPERTY: header-args :eval never-export
+
+#+OPTIONS: creator:t toc:nil
+
+* Blog
+** DONE Episode 1: The Right Mindset for Emacs
+CLOSED: [2018-08-02 Thu 17:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: episode_1
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f"
+:END:
+
+*How I overcame my obsession with tools when trying Emacs.*
+
+Pilot episode: let's talk about who this podcast is for, why I make it and how my obsession with tools was somewhat fixed when I tried Emacs.
+
+<iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+
+- [[http://emacscast.rakhim.org/episode/dad4f44c-901d-469b-8a8a-a4a890933ac2][Play online]]
+- [[https://pinecast.com/listen/dad4f44c-901d-469b-8a8a-a4a890933ac2][Download mp3]]
+- [[https://youtu.be/7vC8al1ZZz8][Listen on YouTube]]
+- [[https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/][Discussion on reddit.com/r/emacs]]
+
+*** Shownotes
+
+- [[https://en.wikipedia.org/wiki/Shoshin][Beginner's Mind]]
+- [[https://zenhabits.net/beginner/][Approaching Life with Beginner’s Mind]] by Leo Babauta
+- [[https://www.emacswiki.org/emacs/EmacsPodcasts][Two Emacs podcasts]]
+- [[https://en.wikipedia.org/wiki/Dendy_(console)][Dendy console]], a Taiwanese clone of NES (not SNES, like I said in the episode). The Keyboard version was called Subor and it looked [[https://i.imgur.com/TBpyRxi.jpg][like this]].
+- [[https://www.sublimetext.com/][Sublime Text Editor]]
+
+*** Plans for the next episode
+
+- My configuration in org format
+- How org-babel helps
+- Quick overview of initial sane default and packages
+
+** DONE Episode 2: Config in Org format
+CLOSED: [2018-08-03 Fri 20:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: episode_2
+:END:
+
+*The overview of my setup and packages.*
+
+I explain my setup, configuration with Org-babel and packages I have at the moment. It's a simple, but flexible starting point for beginners, I think.
+
+<iframe src='https://pinecast.com/player/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+
+- [[http://emacscast.rakhim.org/episode/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61][Play online]]
+- [[https://pinecast.com/listen/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61][Download mp3]]
+- [[https://youtu.be/sbAsyQnHsGw][Listen on YouTube]]
+- [[https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/][Discussion on reddit.com/r/emacs]]
+
+*** Shownotes
+
+- [[https://github.com/freetonik/emacs-dotfiles/blob/18520ca70a7d00f413154c4b2b19b28438af24f7/init.org][My config]] as of Aug 3, 2018 when this episode aired
+- [[https://github.com/freetonik/emacs-dotfiles][My current config]]
+- [[http://aquamacs.org/][Aquamacs]], macOS-specific Emacs build
+- [[https://emacsformacosx.com/][Emacs For Mac OS X]], pure Emacs, no nonsense
+- [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html][The Emacs Initialization File]], like =.emacs= or =.emacs.d/init.el=
+- [[https://github.com/larstvei/dot-emacs][Lars Tveito's config]]
+- [[https://github.com/hrs/dotfiles/tree/master/emacs/.emacs.d][Harry R. Schwartz's config]]. Harry's [[https://www.youtube.com/watch?v=SzA2YODtgK4][talk about org-mode]] is excellent, by the way.
+- [[http://melpa.org/][melpa]] - Milkypostman’s Emacs Lisp Package Archive
+
+*** Plans for the next episode
+
+- Hopefully, reviewing feedback from listeners :-)
+- Good resources for beginners: Emacs, Org Mode, configs
+- Basics of org-mode, maybe?
+
+** DONE Episode 3: Org mode
+CLOSED: [2018-08-10 Fri 20:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: episode_3
+:END:
+
+*An amazingly powerful piece of software.*
+
+Fresh "Config News" and an overview of Org mode, a powerful Emacs package for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
+
+<iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+
+- [[http://emacscast.rakhim.org/episode/754222a0-714c-41b6-9203-8d0dc0d6210f][Play online]]
+- [[https://pinecast.com/listen/754222a0-714c-41b6-9203-8d0dc0d6210f][Download mp3]]
+- [[https://youtu.be/3hHmHYPNyyE][Listen on YouTube]]
+- [[https://www.reddit.com/r/emacs/comments/966nag/emacscast_3_org_mode_and_a_bit_about_helm/][Discussion on reddit.com/r/emacs]]
+
+*** Shownotes
+
+- [[https://github.com/freetonik/emacs-dotfiles][My current config]]
+- [[https://orgmode.org/][Org-mode]]
+- [[https://workflowy.com/][Workflowy, a simple outliner]]
+- [[https://github.com/freetonik/emacs-dotfiles/blob/master/init.pdf][Nice looking PDF version of my config]]. Generated by Org LaTex->PDF exporter. Note that some code blocks are too wide and don't with on the page. That's my fault, not Org's :)
+- [[http://cestlaz.github.io/posts/using-emacs-23-capture-1/][Org capture video tutorial]] by Mike Zamansky. [[http://cestlaz.github.io/posts/using-emacs-24-capture-2/#.WERjG3eZOuU][Part 2]].
+- [[https://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][David O'Toole Org tutorial]]
+- [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting Started With Org Mode (YouTube)]] by Harry Schwartz.
+- [[https://www.youtube.com/watch?v=sQS06Qjnkcc&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE][Getting yourself organized with OrgMode (YouTube playlist)]] by Rainer König
+
+*** Plans for the next episode
+
+- Reviewing feedback
+- Config news :-)
+- Vanilla Emacs vs. Evil Mode vs. Spacemacs vs. Doom

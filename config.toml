@@ -1,0 +1,46 @@
+baseURL = "https://emacscast.org/"
+languageCode = "en-us"
+title = "EmacsCast"
+theme = "hugo-xmin"
+paginate = 30
+
+[Params]
+pinecast_cover_img_id = "9d231ca0-2104-44f7-86ef-23a44c78f6e3"
+
+[permalinks]
+    blog = "/:filename/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    name = "iTunes"
+    url = "https://itunes.apple.com/fi/podcast/emacscast/id1421123475"
+    weight = 3
+
+[[menu.main]]
+    name = "Google Play"
+    url = "https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%3DEmacsCast%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
+    weight = 4
+
+[[menu.main]]
+    name = "PocketCasts"
+    url = "https://pca.st/CxE9"
+    weight = 5
+
+[[menu.main]]
+    name = "Overcast"
+    url = "https://overcast.fm/itunes1421123475/emacscast"
+    weight = 6
+
+[[menu.main]]
+    name = "RSS"
+    url = "https://pinecast.com/feed/emacscast"
+    weight = 7

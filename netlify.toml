@@ -1,0 +1,42 @@
+[build]
+publish = "public"
+command = "hugo --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.47.1"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+command = "hugo --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.47.1"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.47.1"
+
+[context.branch-deploy]
+command = "hugo -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.47.1"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/episode/dad4f44c-901d-469b-8a8a-a4a890933ac2"
+  to = "/episode_1"
+
+[[redirects]]
+  from = "/episode/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61"
+  to = "/episode_2"
+
+[[redirects]]
+  from = "/episode/754222a0-714c-41b6-9203-8d0dc0d6210f"
+  to = "/episode_3"

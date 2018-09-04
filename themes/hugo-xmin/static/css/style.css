@@ -1,0 +1,86 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+  background-color: #fffffe;
+}
+
+h1.brand {
+  font-size: 3em;
+  font-weight: 100;
+  margin-bottom: 0;
+}
+
+h1.brand a {
+  color: inherit !important;
+  text-decoration: none;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+}
+
+article {
+  margin-bottom: 4em;
+}
+
+article h1 {
+  font-size: 2em;
+}
+
+article h1 a {
+  text-decoration: none;
+}
+
+h1 a:visited, ul.menu li a:visited {
+  color: blue;
+}
+
+/* header and footer areas */
+.menu { padding: 0; margin: 1.5em 0 1em 0; }
+.menu li { display: inline-block; margin-bottom: 0.5em; }
+.article-meta, .menu a {
+  text-decoration: none;
+  background: #eee;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+/* .menu, .article-meta, footer { text-align: center; } */
+
+.title { font-size: 1.1em; }
+footer a { text-decoration: none; }
+hr {
+  border-style: dashed;
+  color: #ddd;
+  margin: 1em 0 3em;
+}
+
+/* code */
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  padding: 1em;
+  overflow-x: auto;
+}
+code { background: #f9f9f9; }
+pre code { background: none; }
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+main { hyphens: auto; }
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+thead, tfoot, tr:nth-child(even) { background: #eee }
