@@ -13,7 +13,6 @@ Fresh "Config News" and an overview of Org mode, a powerful Emacs package for ke
 
 <iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
--   [Play online](http://emacscast.rakhim.org/episode/754222a0-714c-41b6-9203-8d0dc0d6210f)
 -   [Download mp3](https://pinecast.com/listen/754222a0-714c-41b6-9203-8d0dc0d6210f)
 -   [Listen on YouTube](https://youtu.be/3hHmHYPNyyE)
 -   [Discussion on reddit.com/r/emacs](https://www.reddit.com/r/emacs/comments/966nag/emacscast%5F3%5Forg%5Fmode%5Fand%5Fa%5Fbit%5Fabout%5Fhelm/)

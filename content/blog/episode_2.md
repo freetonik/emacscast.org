@@ -13,7 +13,6 @@ I explain my setup, configuration with Org-babel and packages I have at the mome
 
 <iframe src='https://pinecast.com/player/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
--   [Play online](http://emacscast.rakhim.org/episode/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61)
 -   [Download mp3](https://pinecast.com/listen/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61)
 -   [Listen on YouTube](https://youtu.be/sbAsyQnHsGw)
 -   [Discussion on reddit.com/r/emacs](https://www.reddit.com/r/emacs/comments/94aspe/new%5Fpodcast%5Fabout%5Fa%5Fbeginners%5Fjourney%5Finto%5Femacs/)

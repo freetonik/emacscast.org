@@ -1,0 +1,96 @@
+
+** Outline
+**** News
+- New website, Hugo and ox-hugo
+- Help Emacs community, e.g.
+  - Bastien Guerry, maintainer of Org mode [[https://twitter.com/bzg2/status/970281120880300033][couldn't afford a new computer]]
+  - Thierry Volpiatto [[https://github.com/emacs-helm/helm/issues/2083][stalling the active development of Helm]]
+
+**** Config news
+- move-text
+- ox-hugo
+- multiple cursors
+- simple mode line
+- which-key
+- visual regexp
+- shackle
+- NeoTree
+- company
+- reformatted config a bit
+
+**** Spacemacs
+- Created by Sylvain Benner, lives in Quebec city, Canada; now more than 100 contributors
+- Community-driven distribution
+  - in Emacs, things like this are easy to try, just replace =~/.emacs.d=
+  - focused on ergonomics, mnemonics and consistency
+  - Evil, Projectile, Helm, which-key, powerline, theme + lots of sane defaults, lots of configured packages
+  - layers: pre-configured sets
+    - prompt to install when needed
+  - Evil mode
+    - extensive vim emulation
+    - primary audience seems to be vim refugees
+    - some conventions are different from Vanilla Emacs
+      - =SPC w o= is other frame, but =C-x o= is other window
+      - =SPC w 2= makes column (vertical split), but =C x 2= makes horizontal split
+      - =SPC w 1= does nothing, but in vanilla it kills other windows
+      - =SPC w f= is follow mode, but in vanilla it's usually =F=
+      - But switching to windows is cool with =SPC 1=, =SPC 2=, etc.
+    - some vanilla bindings don't work (=C-t=), some are arguably harder to type (=SPC x t w= vs =M-t= to transpose word)
+    - many packages support Evil bindings, but not all and sometimes not too well
+  - Spacemacs assumes a familiarity with Emacs (even documentation)
+  - It's own config system on top of Emacs
+    - Great config with lots of comments and good ideas
+    - But many configs are inside other functions, can't easily =C-x e=
+
+***** Advantages
+- very well configured, curated and just works
+- updates frequently, with auto update notifications
+- 'layer' is a good idea, may be a saner 'package' abstraction
+- 5 years and active (repodig https://repodig.com/repositories/438)
+
+***** Disadvantages
+- whole new layer of complexity
+- not beginner friendly
+- not all vanilla bindings work, no way to know if a particular instance is due to Spacemacs or something else
+- two bad options:
+  1. start early and learn non-standard ways, struggle with unrelevant tutorials and help
+  2. start late and you have to re-learn bindings and defaults
+- nagates the customiztaion selling point of Emacs
+- slow-ish, quite heavy
+
+***** Make your own
+- Which-key, helm, projectile, evil
+- Look into layers
+- Steal!
+
+**** Doom Emacs
+- Created by Henrik Lissner, lives in Toronto
+- Fast, opinionated
+- Projectile, Helm/ivy, evil, company
+  - popup management with Shackle
+- Configs via makefile
+  - Modules
+- Custom, declarative package management system
+- does not work with emacsformacosx.com, needs emacs.plus from Homebrew
+
+***** Advantages
+- less space between you and Emacs (unlike Spacemacs)
+- very opinionated
+- lighter than Spacemacs
+  - very fast, especially startup time, some work done on this
+- active (4 years)
+- looks great
+
+***** Disadvantages
+- not beginner friendly
+- very opinionated
+- less polished than Spacemacs
+- module ecosystem is not as good
+
+**** Overall
+- My suggestion if you are Emacs-curious and want to learn as much as possible:
+  1. Start with vanilla, explore and get comfortable
+  2. Try evil yourself
+  3. Then try Spacemacs and Doom
+- If you want something that works out of the box and not interested in customization - start with Spacemacs
+  - If you start fiddling with Spacemacs, maybe consider going vanilla with custom config (http://thume.ca/2017/03/04/my-text-editor-journey-vim-spacemacs-atom-and-sublime-text/)

@@ -13,7 +13,6 @@ Pilot episode: let's talk about who this podcast is for, why I make it and how m
 
 <iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
--   [Play online](http://emacscast.rakhim.org/episode/dad4f44c-901d-469b-8a8a-a4a890933ac2)
 -   [Download mp3](https://pinecast.com/listen/dad4f44c-901d-469b-8a8a-a4a890933ac2)
 -   [Listen on YouTube](https://youtu.be/7vC8al1ZZz8)
 -   [Discussion on reddit.com/r/emacs](https://www.reddit.com/r/emacs/comments/94aspe/new%5Fpodcast%5Fabout%5Fa%5Fbeginners%5Fjourney%5Finto%5Femacs/)

@@ -6,6 +6,7 @@ paginate = 30
 
 [Params]
 pinecast_cover_img_id = "9d231ca0-2104-44f7-86ef-23a44c78f6e3"
+footer = "© Rakhim Davletkaliyev 2018<br>Reach me via [emacscast@rakhim.org](mailto:emacscast@rakhim.org) or [twitter](https://twitter.com/freetonik)<br><br>Powered by [Hugo](https://gohugo.io/), [ox-hugo](https://github.com/kaushalmodi/ox-hugo/) and [Netlify](https://www.netlify.com/)"
 
 [permalinks]
     blog = "/:filename/"
