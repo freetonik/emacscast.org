@@ -7,8 +7,6 @@ creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "85b0098d-0ed0-47bb-b84d-b1c7c66c1c61"
 +++
 
-**The overview of my setup and packages.**
-
 I explain my setup, configuration with Org-babel and packages I have at the moment. It's a simple, but flexible starting point for beginners, I think.
 
 <iframe src='https://pinecast.com/player/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>

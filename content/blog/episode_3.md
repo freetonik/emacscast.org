@@ -7,8 +7,6 @@ creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "754222a0-714c-41b6-9203-8d0dc0d6210f"
 +++
 
-**An amazingly powerful piece of software.**
-
 Fresh "Config News" and an overview of Org mode, a powerful Emacs package for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 
 <iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>

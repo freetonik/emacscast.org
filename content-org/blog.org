@@ -14,8 +14,6 @@ CLOSED: [2018-08-02 Thu 17:30]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f"
 :END:
 
-*How I overcame my obsession with tools when trying Emacs.*
-
 Pilot episode: let's talk about who this podcast is for, why I make it and how my obsession with tools was somewhat fixed when I tried Emacs.
 
 <iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
@@ -44,8 +42,6 @@ CLOSED: [2018-08-03 Fri 20:16]
 :EXPORT_FILE_NAME: episode_2
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "85b0098d-0ed0-47bb-b84d-b1c7c66c1c61"
 :END:
-
-*The overview of my setup and packages.*
 
 I explain my setup, configuration with Org-babel and packages I have at the moment. It's a simple, but flexible starting point for beginners, I think.
 
@@ -79,8 +75,6 @@ CLOSED: [2018-08-10 Fri 20:19]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f"
 :END:
 
-*An amazingly powerful piece of software.*
-
 Fresh "Config News" and an overview of Org mode, a powerful Emacs package for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 
 <iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
@@ -113,15 +107,12 @@ CLOSED: [2018-09-05 Wed 16:16]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "a6984553-56ca-40f3-a495-501780f7de26"
 :END:
 
-*Community-driven distributions of Emacs versus vanilla emacs and your own config.*
-
-Few updates and an overview of two popular Emacs distributions, focused on Evil mode.
+Few updates and an overview of two popular community-driven Emacs distributions, focused on Evil mode. Comparison with vanilla Emacs and your own config.
 
 <iframe src='https://pinecast.com/player/a6984553-56ca-40f3-a495-501780f7de26?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
 - [[https://pinecast.com/listen/a6984553-56ca-40f3-a495-501780f7de26][Download mp3]]
 - [[https://youtu.be/6xKzrcrv_fU][Listen on YouTube]]
-- [[https://www.reddit.com/r/emacs/comments/966nag/emacscast_3_org_mode_and_a_bit_about_helm/][Discussion on reddit.com/r/emacs]]
 
 *** Shownotes
 

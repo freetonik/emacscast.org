@@ -7,8 +7,6 @@ creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "754222a0-714c-41b6-9203-8d0dc0d6210f"
 +++
 
-**How I overcame my obsession with tools when trying Emacs.**
-
 Pilot episode: let's talk about who this podcast is for, why I make it and how my obsession with tools was somewhat fixed when I tried Emacs.
 
 <iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
