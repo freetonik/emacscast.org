@@ -42,6 +42,11 @@ footer = "© Rakhim Davletkaliyev 2018<br>Reach me via [emacscast@rakhim.org](ma
     weight = 6
 
 [[menu.main]]
+    name = "YouTube"
+    url = "https://www.youtube.com/channel/UCEfFUaIkjbI06PhALdcXNVA"
+    weight = 7
+
+[[menu.main]]
     name = "RSS"
     url = "https://pinecast.com/feed/emacscast"
-    weight = 7
+    weight = 8
