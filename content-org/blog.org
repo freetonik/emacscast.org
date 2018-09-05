@@ -120,7 +120,7 @@ Few updates and an overview of two popular Emacs distributions, focused on Evil 
 <iframe src='https://pinecast.com/player/a6984553-56ca-40f3-a495-501780f7de26?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
 - [[https://pinecast.com/listen/a6984553-56ca-40f3-a495-501780f7de26][Download mp3]]
-- [[https://youtu.be/3hHmHYPNyyE][Listen on YouTube]]
+- [[https://youtu.be/6xKzrcrv_fU][Listen on YouTube]]
 - [[https://www.reddit.com/r/emacs/comments/966nag/emacscast_3_org_mode_and_a_bit_about_helm/][Discussion on reddit.com/r/emacs]]
 
 *** Shownotes

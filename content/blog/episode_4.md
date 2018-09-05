@@ -14,7 +14,7 @@ Few updates and an overview of two popular Emacs distributions, focused on Evil 
 <iframe src='https://pinecast.com/player/a6984553-56ca-40f3-a495-501780f7de26?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
 -   [Download mp3](https://pinecast.com/listen/a6984553-56ca-40f3-a495-501780f7de26)
--   [Listen on YouTube](https://youtu.be/3hHmHYPNyyE)
+-   [Listen on YouTube](https://youtu.be/6xKzrcrv%5FfU)
 -   [Discussion on reddit.com/r/emacs](https://www.reddit.com/r/emacs/comments/966nag/emacscast%5F3%5Forg%5Fmode%5Fand%5Fa%5Fbit%5Fabout%5Fhelm/)
 
 
