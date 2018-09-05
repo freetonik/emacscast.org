@@ -1,19 +1,19 @@
-* EmacsCast
+* EmacsCast.org
 
-A podcast about exploring Emacs with beginner's mind.
+A podcast about exploring Emacs with beginner's mind. *Go to [[https://emacscast.org/][emacscast.org]] to get all episode, full shownotes and reference links.*
 
 [[./cover.jpg]]
 
-** Episodes
-
-   - [[episode_1.org][Episode 1 - The Right Mindset for Emacs]]
-   - [[episode_2.org][Episode 2 - Config in Org format]]
-   - [[episode_3.org][Episode 3 - Org-mode]]
-
 ** Subscribe
-   - [[https://pinecast.com/feed/emacscast][RSS]]
-   - [[https://itunes.apple.com/fi/podcast/emacscast/id1421123475][iTunes/ApplePodcasts]]
-   - [[https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%253DEmacsCast%2526pcampaignid%253DMKT-na-all-co-pr-mu-pod-16][Google Play]]
+- [[https://pinecast.com/feed/emacscast][RSS]]
+- [[https://itunes.apple.com/fi/podcast/emacscast/id1421123475][iTunes/ApplePodcasts]]
+- [[https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%253DEmacsCast%2526pcampaignid%253DMKT-na-all-co-pr-mu-pod-16][Google Play]]
+- [[https://pca.st/CxE9][PocketCasts]]
+- [[https://overcast.fm/itunes1421123475/emacscast][Overcast]]
+- [[https://www.youtube.com/channel/UCEfFUaIkjbI06PhALdcXNVA][YouTube]]
 
 ** Contributions
-   Please, send feedback, suggestions and ideas to [[mailto:emacscast@rakhim.org][emacscast@rakhim.org]].
+Please, send feedback, suggestions and ideas to [[mailto:emacscast@rakhim.org][emacscast@rakhim.org]].
+
+** Site
+This site is powered by Org, ox-hugo and Netlify.
