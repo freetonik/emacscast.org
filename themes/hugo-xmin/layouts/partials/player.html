@@ -1,0 +1,13 @@
+{{ if isset .Params "file_id" }}
+<iframe src="https://pinecast.com/player/{{ .Params.file_id }}?theme=slim" seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
+
+<p>
+  <a href="https://pinecast.com/listen/{{ .Params.file_id }}">Download mp3</a>
+  {{ if isset .Params "youtube_id" }}
+  | <a href="https://youtu.be/{{ .Params.youtube_id }}">Listen on YouTube</a>
+  {{ end }}
+  {{ if isset .Params "reddit_url" }}
+  | <a href="{{ .Params.reddit_url }}">Discussion on reddit.com/r/emacs</a>
+  {{ end }}
+</p>
+{{ end }}

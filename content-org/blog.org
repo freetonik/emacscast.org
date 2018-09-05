@@ -11,16 +11,10 @@
 CLOSED: [2018-08-02 Thu 17:30]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_1
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f" :youtube_id "7vC8al1ZZz8", :reddit_url "https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/"
 :END:
 
 Pilot episode: let's talk about who this podcast is for, why I make it and how my obsession with tools was somewhat fixed when I tried Emacs.
-
-<iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
-
-- [[https://pinecast.com/listen/dad4f44c-901d-469b-8a8a-a4a890933ac2][Download mp3]]
-- [[https://youtu.be/7vC8al1ZZz8][Listen on YouTube]]
-- [[https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/][Discussion on reddit.com/r/emacs]]
 
 *** Shownotes
 
@@ -40,16 +34,10 @@ Pilot episode: let's talk about who this podcast is for, why I make it and how m
 CLOSED: [2018-08-03 Fri 20:16]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_2
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "85b0098d-0ed0-47bb-b84d-b1c7c66c1c61"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "85b0098d-0ed0-47bb-b84d-b1c7c66c1c61" :youtube_id "sbAsyQnHsGw", :reddit_url "https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/"
 :END:
 
 I explain my setup, configuration with Org-babel and packages I have at the moment. It's a simple, but flexible starting point for beginners, I think.
-
-<iframe src='https://pinecast.com/player/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
-
-- [[https://pinecast.com/listen/85b0098d-0ed0-47bb-b84d-b1c7c66c1c61][Download mp3]]
-- [[https://youtu.be/sbAsyQnHsGw][Listen on YouTube]]
-- [[https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/][Discussion on reddit.com/r/emacs]]
 
 *** Shownotes
 
@@ -72,16 +60,10 @@ I explain my setup, configuration with Org-babel and packages I have at the mome
 CLOSED: [2018-08-10 Fri 20:19]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_3
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f", :youtube_id "3hHmHYPNyyE", :reddit_url "https://www.reddit.com/r/emacs/comments/966nag/emacscast_3_org_mode_and_a_bit_about_helm/"
 :END:
 
 Fresh "Config News" and an overview of Org mode, a powerful Emacs package for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
-
-<iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
-
-- [[https://pinecast.com/listen/754222a0-714c-41b6-9203-8d0dc0d6210f][Download mp3]]
-- [[https://youtu.be/3hHmHYPNyyE][Listen on YouTube]]
-- [[https://www.reddit.com/r/emacs/comments/966nag/emacscast_3_org_mode_and_a_bit_about_helm/][Discussion on reddit.com/r/emacs]]
 
 *** Shownotes
 
@@ -104,15 +86,10 @@ Fresh "Config News" and an overview of Org mode, a powerful Emacs package for ke
 CLOSED: [2018-09-05 Wed 16:16]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_4
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "a6984553-56ca-40f3-a495-501780f7de26"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "a6984553-56ca-40f3-a495-501780f7de26", :youtube_id "6xKzrcrv_fU", :reddit_url ""
 :END:
 
 Few updates and an overview of two popular community-driven Emacs distributions, focused on Evil mode. Comparison with vanilla Emacs and your own config.
-
-<iframe src='https://pinecast.com/player/a6984553-56ca-40f3-a495-501780f7de26?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
-
-- [[https://pinecast.com/listen/a6984553-56ca-40f3-a495-501780f7de26][Download mp3]]
-- [[https://youtu.be/6xKzrcrv_fU][Listen on YouTube]]
 
 *** Shownotes
 

@@ -5,15 +5,11 @@ date = 2018-08-10T20:19:00+03:00
 draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "754222a0-714c-41b6-9203-8d0dc0d6210f"
+youtube_id = "3hHmHYPNyyE"
+reddit_url = "https://www.reddit.com/r/emacs/comments/966nag/emacscast_3_org_mode_and_a_bit_about_helm/"
 +++
 
 Fresh "Config News" and an overview of Org mode, a powerful Emacs package for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
-
-<iframe src='https://pinecast.com/player/754222a0-714c-41b6-9203-8d0dc0d6210f?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
-
--   [Download mp3](https://pinecast.com/listen/754222a0-714c-41b6-9203-8d0dc0d6210f)
--   [Listen on YouTube](https://youtu.be/3hHmHYPNyyE)
--   [Discussion on reddit.com/r/emacs](https://www.reddit.com/r/emacs/comments/966nag/emacscast%5F3%5Forg%5Fmode%5Fand%5Fa%5Fbit%5Fabout%5Fhelm/)
 
 
 ## Shownotes {#shownotes}

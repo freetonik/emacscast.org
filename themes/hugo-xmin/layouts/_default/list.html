@@ -9,6 +9,9 @@
 {{ range (where .Data.Pages "Section" "!=" "") }}
 <article>
   <h1><a href="{{ .URL }}">{{ .Title }}</a></h1>
+
+  {{ partial "player.html" . }}
+
   {{ .Content }}
   <p>
     <i class="date">{{ .Date.Format "January 1, 2006" }}</i>

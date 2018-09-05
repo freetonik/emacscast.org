@@ -5,14 +5,10 @@ date = 2018-09-05T16:16:00+03:00
 draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "a6984553-56ca-40f3-a495-501780f7de26"
+youtube_id = "6xKzrcrv_fU"
 +++
 
 Few updates and an overview of two popular community-driven Emacs distributions, focused on Evil mode. Comparison with vanilla Emacs and your own config.
-
-<iframe src='https://pinecast.com/player/a6984553-56ca-40f3-a495-501780f7de26?theme=slim' seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
-
--   [Download mp3](https://pinecast.com/listen/a6984553-56ca-40f3-a495-501780f7de26)
--   [Listen on YouTube](https://youtu.be/6xKzrcrv%5FfU)
 
 
 ## Shownotes {#shownotes}

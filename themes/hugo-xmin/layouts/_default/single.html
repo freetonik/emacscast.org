@@ -4,8 +4,11 @@
 </div>
 
 <main>
-{{ .Content }}
-{{ if (gt .Params.date 0) }}<p class="date">{{ .Date.Format "January 1, 2006" }}</p>{{ end }}
+
+  {{ partial "player.html" . }}
+
+  {{ .Content }}
+  {{ if (gt .Params.date 0) }}<p class="date">{{ .Date.Format "January 1, 2006" }}</p>{{ end }}
 </main>
 
 {{ partial "footer.html" . }}
