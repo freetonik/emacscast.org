@@ -39,7 +39,7 @@ h1 a:visited, ul.menu li a:visited {
 
 /* header and footer areas */
 .menu { padding: 0; margin: 1.5em 0 1em 0; }
-.menu li { display: inline-block; margin-bottom: 0.5em; margin-right: 0.1em; }
+.menu li { display: inline-block; margin-bottom: 0.5em; margin-right: 0.2em; }
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;

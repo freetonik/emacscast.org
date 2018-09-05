@@ -4,6 +4,7 @@ author = ["Rakhim Davletkaliyev"]
 date = 2018-08-10T20:19:00+03:00
 draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
+file_id = "754222a0-714c-41b6-9203-8d0dc0d6210f"
 +++
 
 **An amazingly powerful piece of software.**

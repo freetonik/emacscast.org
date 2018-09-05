@@ -1,9 +1,10 @@
 +++
-title = "EmacsCast 2 - Config in Org format"
+title = "Episode 2: Config in Org format"
 author = ["Rakhim Davletkaliyev"]
 date = 2018-08-03T20:16:00+03:00
 draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
+file_id = "85b0098d-0ed0-47bb-b84d-b1c7c66c1c61"
 +++
 
 **The overview of my setup and packages.**
