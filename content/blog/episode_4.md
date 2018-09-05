@@ -6,6 +6,7 @@ draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "a6984553-56ca-40f3-a495-501780f7de26"
 youtube_id = "6xKzrcrv_fU"
+reddit_url = "https://www.reddit.com/r/emacs/comments/9d7rew/emacscast_episode_4_spacemacs_vs_doom_vs_vanilla/"
 +++
 
 Few updates and an overview of two popular community-driven Emacs distributions, focused on Evil mode. Comparison with vanilla Emacs and your own config.
