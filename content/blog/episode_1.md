@@ -4,7 +4,7 @@ author = ["Rakhim Davletkaliyev"]
 date = 2018-08-02T17:30:00+03:00
 draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
-file_id = "754222a0-714c-41b6-9203-8d0dc0d6210f"
+file_id = "dad4f44c-901d-469b-8a8a-a4a890933ac2"
 youtube_id = "7vC8al1ZZz8"
 reddit_url = "https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/"
 +++

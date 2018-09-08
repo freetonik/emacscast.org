@@ -11,7 +11,7 @@
 CLOSED: [2018-08-02 Thu 17:30]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_1
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "754222a0-714c-41b6-9203-8d0dc0d6210f" :youtube_id "7vC8al1ZZz8", :reddit_url "https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "dad4f44c-901d-469b-8a8a-a4a890933ac2" :youtube_id "7vC8al1ZZz8", :reddit_url "https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/"
 :END:
 
 Pilot episode: let's talk about who this podcast is for, why I make it and how my obsession with tools was somewhat fixed when I tried Emacs.
@@ -34,7 +34,7 @@ Pilot episode: let's talk about who this podcast is for, why I make it and how m
 CLOSED: [2018-08-03 Fri 20:16]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_2
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "dad4f44c-901d-469b-8a8a-a4a890933ac2" :youtube_id "sbAsyQnHsGw", :reddit_url "https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "85b0098d-0ed0-47bb-b84d-b1c7c66c1c61" :youtube_id "sbAsyQnHsGw", :reddit_url "https://www.reddit.com/r/emacs/comments/94aspe/new_podcast_about_a_beginners_journey_into_emacs/"
 :END:
 
 I explain my setup, configuration with Org-babel and packages I have at the moment. It's a simple, but flexible starting point for beginners, I think.
