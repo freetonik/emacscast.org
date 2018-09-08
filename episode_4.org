@@ -1,4 +1,3 @@
-
 ** Outline
 **** News
 - New website, Hugo and ox-hugo
