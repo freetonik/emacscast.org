@@ -3,7 +3,6 @@
 #+HUGO_SECTION: blog
 #+SEQ_TODO: TODO DRAFT DONE
 #+PROPERTY: header-args :eval never-export
-
 #+OPTIONS: creator:t toc:nil
 
 * Blog
@@ -124,3 +123,36 @@ Few updates and an overview of two popular community-driven Emacs distributions,
 - [[https://github.com/Kungsgeten/ryo-modal][RYO modal mode!]]
 - [[https://github.com/fgeller/fingers.el][Fingers.el]]
 - [[http://ergoemacs.org/misc/ergoemacs_vi_mode.html][Xah Fly Keys]]
+
+** DONE Episode 5: Blogging with Org mode and Emacs
+CLOSED: [2018-09-24 Mon 19:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: episode_5
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "2e1b070f-4475-47ba-9b2f-2bd27ac42c95", :youtube_id "7s8cQ2cOnl8"
+:END:
+
+Switching from Helm to Ivy, Castlemacs and blogging with Org mode, ox-hugo and Hugo static site generator.
+
+*** Shownotes
+
+**** News
+- [[https://github.com/freetonik/emacs-dotfiles][Updated config with Ivy instead of Helm]]
+- [[https://github.com/wasamasa/shackle][Shackle]] a way to control window creation
+- [[https://github.com/freetonik/castlemacs][Castlemacs]]: modern, minimalist Emacs for macOS ⌘
+
+**** Exporting HTML with Org mode
+- [[https://github.com/fniessen/org-html-themes][Some HTML templates for Org exporter]]
+- Another [[https://gongzhitaao.org/orgcss/][very nice theme]] (I'm going to set this as default for my setup)
+- [[http://wordpress.org/][Wordpress]]
+- [[http://blogengine.me/][Aegea, the blogging engine]]
+- My [[https://rakh.im/][blog in Russian that uses Jekyll]]
+
+**** Blogging with ox-hugo
+- My [[https://rakhim.org][main blog in English]] powered by Hugo, ox-hugo and Org mode
+- [[https://gohugo.io/][Hugo]], another static website generator
+- [[https://github.com/kaushalmodi/ox-hugo][Ox-hugo]]: a carefully crafted Org exporter back-end for Hugo
+- Section of ox-hugo documentation [[https://ox-hugo.scripter.co/doc/equations/][on LaTeX]]
+
+***** Some articles on math produced with Mathjax
+- [[https://rakhim.org/2018/09/a-simple-introduction-to-proof-by-contradiction/][A Simple Introduction to Proof by Contradiction]]
+- [[https://rakhim.org/2018/09/a-simple-introduction-to-proof-by-induction/][A Simple Introduction to Proof by Induction]]
