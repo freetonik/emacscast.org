@@ -6,6 +6,7 @@ draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "2e1b070f-4475-47ba-9b2f-2bd27ac42c95"
 youtube_id = "7s8cQ2cOnl8"
+reddit_url = "https://www.reddit.com/r/emacs/comments/9ijtyp/emacscast_5_blogging_with_org_mode_and_oxhugo/"
 +++
 
 Switching from Helm to Ivy, Castlemacs and blogging with Org mode, ox-hugo and Hugo static site generator.
