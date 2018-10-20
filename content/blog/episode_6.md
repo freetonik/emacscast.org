@@ -5,6 +5,7 @@ date = 2018-10-20T12:22:00+03:00
 draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "b9163c23-00a6-4766-ac23-deb6ea70c565"
+youtube_id = "fkh2gqV2Jt4"
 +++
 
 Trying to reduce the amount of code running in my life, and going back to the basics of Emacs when possible. The power of defaults.

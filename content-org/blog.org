@@ -161,7 +161,7 @@ Switching from Helm to Ivy, Castlemacs and blogging with Org mode, ox-hugo and H
 CLOSED: [2018-10-20 Sat 12:22]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_6
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "b9163c23-00a6-4766-ac23-deb6ea70c565"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "b9163c23-00a6-4766-ac23-deb6ea70c565", :youtube_id "fkh2gqV2Jt4"
 :END:
 
 Trying to reduce the amount of code running in my life, and going back to the basics of Emacs when possible. The power of defaults.
