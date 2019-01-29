@@ -10,6 +10,14 @@ I decided to start a little experimental podcast to document my exploration. Hop
 
 This podcast is made possible by the Patrons. Consider [becoming a Patron as well](https://www.patreon.com/bePatron?u=14316355).
 
+Thanks to:
+
+- Alex Koval
+- Daniel Compton
+- Fritz Grabo
+- Kent Ortell Johnson
+- Slava Semushin
+
 ### About the host
 
 I’m Rakhim D., a software developer, writer and podcaster.
