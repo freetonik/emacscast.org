@@ -192,7 +192,7 @@ You can now *[[https://www.patreon.com/emacscast][support EmacsCast on Patreon]]
 CLOSED: [2019-01-29 Tue 09:27]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_7
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "2f80717e-303f-4fc3-accd-713105382263", :youtube_id "UrU0wZM7W6k"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "2f80717e-303f-4fc3-accd-713105382263", :youtube_id "UrU0wZM7W6k", :reddit_url "https://www.reddit.com/r/emacs/comments/al113s/emacscast_7_evil_vim_and_performance_of_emacs/"
 :END:
 
 Answering a few questions from a listener and rambling about tools, optimization, writers and Matt.

@@ -6,6 +6,7 @@ draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "2f80717e-303f-4fc3-accd-713105382263"
 youtube_id = "UrU0wZM7W6k"
+reddit_url = "https://www.reddit.com/r/emacs/comments/al113s/emacscast_7_evil_vim_and_performance_of_emacs/"
 +++
 
 Answering a few questions from a listener and rambling about tools, optimization, writers and Matt.
