@@ -161,7 +161,7 @@ Switching from Helm to Ivy, Castlemacs and blogging with Org mode, ox-hugo and H
 CLOSED: [2018-10-20 Sat 12:22]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_6
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "b9163c23-00a6-4766-ac23-deb6ea70c565", :youtube_id "fkh2gqV2Jt4"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "b9163c23-00a6-4766-ac23-deb6ea70c565", :youtube_id "fkh2gqV2Jt4", :reddit_url "https://www.reddit.com/r/emacs/comments/9qdwsl/emacscast_6_less_software_and_back_to_defaults/"
 :END:
 
 Trying to reduce the amount of code running in my life, and going back to the basics of Emacs when possible. The power of defaults.
@@ -192,7 +192,7 @@ You can now *[[https://www.patreon.com/emacscast][support EmacsCast on Patreon]]
 CLOSED: [2019-01-29 Tue 09:27]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_7
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "2f80717e-303f-4fc3-accd-713105382263" , :reddit_url "https://www.reddit.com/r/emacs/comments/9qdwsl/emacscast_6_less_software_and_back_to_defaults/"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "2f80717e-303f-4fc3-accd-713105382263", :youtube_id "UrU0wZM7W6k"
 :END:
 
 Answering a few questions from a listener and rambling about tools, optimization, writers and Matt.

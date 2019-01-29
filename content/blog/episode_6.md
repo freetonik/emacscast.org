@@ -6,6 +6,7 @@ draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "b9163c23-00a6-4766-ac23-deb6ea70c565"
 youtube_id = "fkh2gqV2Jt4"
+reddit_url = "https://www.reddit.com/r/emacs/comments/9qdwsl/emacscast_6_less_software_and_back_to_defaults/"
 +++
 
 Trying to reduce the amount of code running in my life, and going back to the basics of Emacs when possible. The power of defaults.

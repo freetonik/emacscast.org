@@ -5,7 +5,7 @@ date = 2019-01-29T09:27:00+02:00
 draft = false
 creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
 file_id = "2f80717e-303f-4fc3-accd-713105382263"
-reddit_url = "https://www.reddit.com/r/emacs/comments/9qdwsl/emacscast_6_less_software_and_back_to_defaults/"
+youtube_id = "UrU0wZM7W6k"
 +++
 
 Answering a few questions from a listener and rambling about tools, optimization, writers and Matt.
