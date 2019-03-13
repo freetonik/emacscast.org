@@ -1,5 +1,5 @@
 +++
-title = "Episode 8: Writing in Emacs and Org mode"
+title = "Episode 8: Writing in Emacs and Org mode, part 1"
 author = ["Rakhim Davletkaliyev"]
 date = 2019-03-13T11:17:00+02:00
 draft = false

@@ -205,7 +205,7 @@ Answering a few questions from a listener and rambling about tools, optimization
 - [[https://github.com/hlissner/doom-emacs/wiki/FAQ#how-is-dooms-startup-so-fast][How is Doom’s startup so fast?]]
 - [[https://elpa.gnu.org/packages/nlinum.html][nlinum]]
 
-** DONE Episode 8: Writing in Emacs and Org mode
+** DONE Episode 8: Writing in Emacs and Org mode, part 1
 CLOSED: [2019-03-13 Wed 11:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_8
