@@ -92,7 +92,7 @@ Few updates and an overview of two popular community-driven Emacs distributions,
 
 *** Shownotes
 
-**** News
+**** Config news
 - [[https://emacscast.org][New Emacscast.org website]] ([[https://github.com/freetonik/emacscast.org][source]])
 - [[https://gohugo.io/][Hugo]] static website generator
 - [[https://github.com/kaushalmodi/ox-hugo][Ox-Hugo]]: A carefully crafted Org exporter back-end for Hugo
@@ -135,7 +135,7 @@ Switching from Helm to Ivy, Castlemacs and blogging with Org mode, ox-hugo and H
 
 *** Shownotes
 
-**** News
+**** Config news
 - [[https://github.com/freetonik/emacs-dotfiles][Updated config with Ivy instead of Helm]]
 - [[https://github.com/wasamasa/shackle][Shackle]] a way to control window creation
 - [[https://github.com/freetonik/castlemacs][Castlemacs]]: modern, minimalist Emacs for macOS ⌘
@@ -169,7 +169,7 @@ Trying to reduce the amount of code running in my life, and going back to the ba
 You can now *[[https://www.patreon.com/emacscast][support EmacsCast on Patreon]]!* There are perks and this wonderful feeling of helping the project you like :-)
 
 *** Shownotes
-**** News
+**** Config news
 - [[https://orgmode.org/manual/Conflicts.html][org-support-shift-select]]
 - [[http://oremacs.com/worf/README.html][worf.el: org speed keys with a bit of vi flavor]]
 - [[https://orgmode.org/manual/Speed-keys.html][Org Speed Keys]]
@@ -204,3 +204,31 @@ Answering a few questions from a listener and rambling about tools, optimization
 - [[https://emacsredux.com/blog/2014/05/16/opening-large-files/][Opening Large Files]]
 - [[https://github.com/hlissner/doom-emacs/wiki/FAQ#how-is-dooms-startup-so-fast][How is Doom’s startup so fast?]]
 - [[https://elpa.gnu.org/packages/nlinum.html][nlinum]]
+
+** DONE Episode 8: Writing in Emacs and Org mode
+CLOSED: [2019-03-13 Wed 11:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: episode_8
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "3ed1fa21-9dde-4ede-8052-ef234c952482", :youtube_id "XANSnQ8IymU", :reddit_url "https://www.reddit.com/r/emacs/"
+:END:
+
+Let's talk about writing short and long texts, blog posts and books in Emacs. Outlining, exporting and publishing. This is part 1 of 2.
+
+*** Shownotes
+**** Config news
+- [[https://github.com/emacs-mirror/emacs/blob/master/lisp/display-line-numbers.el][Display line numbers natively]]
+- [[https://emacsredux.com/blog/2013/04/02/highlight-current-line/][Highlight current line]]
+- [[https://github.com/freetonik/emacs-dotfiles/blob/f967dc59d3e4f808e012ea2ba1c60f687cb54046/custom.el#L40][Background color for current line number]]
+- [[https://projectile.readthedocs.io/en/latest/][Projectile docs]]
+- [[https://github.com/ericdanan/counsel-projectile][Counsel Projectile]]
+**** Writing
+- [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Indirect-Buffers.html][Indirect Buffers]]
+- [[https://orgmode.org/manual/LaTeX-export.html][Org LaTeX export]]
+- [[https://github.com/freetonik/emacs-dotfiles/blob/master/init.pdf][Example of default Org->LaTeX->PDF export]]
+- [[https://gist.github.com/freetonik/0b9369eacbd0e9ed217e8badf8902d35][Auto-export to HTML on save]]
+**** Blogging
+- [[https://emacscast.org/episode_5/][EmacsCast Episode 5: Blogging with Org mode and Emacs]]
+**** Long-form writing
+- [[http://pandoc.org/][Pandoc: a universal document converter]]
+- [[http://pandoc.org/diagram.jpg][Pandoc conversion diagram]]
+- [[https://github.com/kawabata/ox-pandoc][ox-pandoc: an exporter that translates Org-mode files to other formats via Pandoc]]

@@ -15,7 +15,7 @@ Few updates and an overview of two popular community-driven Emacs distributions,
 ## Shownotes {#shownotes}
 
 
-### News {#news}
+### Config news {#config-news}
 
 -   [New Emacscast.org website](https://emacscast.org) ([source](https://github.com/freetonik/emacscast.org))
 -   [Hugo](https://gohugo.io/) static website generator

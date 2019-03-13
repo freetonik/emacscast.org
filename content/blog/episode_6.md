@@ -17,7 +17,7 @@ You can now **[support EmacsCast on Patreon](https://www.patreon.com/emacscast)!
 ## Shownotes {#shownotes}
 
 
-### News {#news}
+### Config news {#config-news}
 
 -   [org-support-shift-select](https://orgmode.org/manual/Conflicts.html)
 -   [worf.el: org speed keys with a bit of vi flavor](http://oremacs.com/worf/README.html)

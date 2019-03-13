@@ -26,8 +26,6 @@ I’m Rakhim D., a software developer, writer and podcaster.
 - [@freetonik](https://twitter.com/freetonik) on twitter
 - [@freetonik](https://www.reddit.com/user/freetonik) on Reddit
 
-
-
 ### Feedback
 
 Please, send feedback, suggestions and ideas to [emacscast@rakhim.org](mailto:emacscast@rakhim.org).

@@ -15,7 +15,7 @@ Switching from Helm to Ivy, Castlemacs and blogging with Org mode, ox-hugo and H
 ## Shownotes {#shownotes}
 
 
-### News {#news}
+### Config news {#config-news}
 
 -   [Updated config with Ivy instead of Helm](https://github.com/freetonik/emacs-dotfiles)
 -   [Shackle](https://github.com/wasamasa/shackle) a way to control window creation
