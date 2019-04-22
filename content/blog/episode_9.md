@@ -5,6 +5,7 @@ date = 2019-04-22T18:22:00+03:00
 draft = false
 creator = "Emacs 26.2 (Org mode 9.1.9 + ox-hugo)"
 file_id = "1ba6bf32-02fa-4ab1-bbb8-8713720f608f"
+youtube_id = "yTUpJ0oOFzA"
 reddit_url = "https://reddit.com/r/emacs/"
 +++
 
