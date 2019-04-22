@@ -6,7 +6,7 @@ draft = false
 creator = "Emacs 26.2 (Org mode 9.1.9 + ox-hugo)"
 file_id = "1ba6bf32-02fa-4ab1-bbb8-8713720f608f"
 youtube_id = "yTUpJ0oOFzA"
-reddit_url = "https://reddit.com/r/emacs/"
+reddit_url = "https://reddit.com/r/emacs/comments/bg4diq/emacscast_9_writing_in_emacs_and_org_mode_part_2/"
 +++
 
 Let's continue talking about writing short and long texts in Emacs. This is part 2 of 2. See [part 1](/episode_8/).

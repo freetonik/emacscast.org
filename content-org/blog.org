@@ -238,7 +238,7 @@ Let's talk about writing short and long texts, blog posts and books in Emacs. Ou
 CLOSED: [2019-04-22 Mon 18:22]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_9
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "1ba6bf32-02fa-4ab1-bbb8-8713720f608f", :youtube_id "yTUpJ0oOFzA", :reddit_url "https://reddit.com/r/emacs/"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "1ba6bf32-02fa-4ab1-bbb8-8713720f608f", :youtube_id "yTUpJ0oOFzA", :reddit_url "https://reddit.com/r/emacs/comments/bg4diq/emacscast_9_writing_in_emacs_and_org_mode_part_2/"
 :END:
 
 Let's continue talking about writing short and long texts in Emacs. This is part 2 of 2. See [[/episode_8/][part 1]].
