@@ -1,7 +1,7 @@
 #+TITLE: EmacsCast Episodes
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: blog
-#+SEQ_TODO: TODO DRAFT DONE
+#+SEQ_TODO: TODO DONE
 #+PROPERTY: header-args :eval never-export
 #+OPTIONS: creator:t toc:nil
 
@@ -209,7 +209,7 @@ Answering a few questions from a listener and rambling about tools, optimization
 CLOSED: [2019-03-13 Wed 11:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: episode_8
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "3ed1fa21-9dde-4ede-8052-ef234c952482", :youtube_id "XANSnQ8IymU", :reddit_url "https://www.reddit.com/r/emacs/"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "3ed1fa21-9dde-4ede-8052-ef234c952482", :youtube_id "XANSnQ8IymU", :reddit_url "https://reddit.com/r/emacs/comments/b0jzy4/emacscast_8_writing_in_emacs_and_org_mode_part_1/"
 :END:
 
 Let's talk about writing short and long texts, blog posts and books in Emacs. Outlining, exporting and publishing. This is part 1 of 2.
@@ -232,3 +232,43 @@ Let's talk about writing short and long texts, blog posts and books in Emacs. Ou
 - [[http://pandoc.org/][Pandoc: a universal document converter]]
 - [[http://pandoc.org/diagram.jpg][Pandoc conversion diagram]]
 - [[https://github.com/kawabata/ox-pandoc][ox-pandoc: an exporter that translates Org-mode files to other formats via Pandoc]]
+
+
+** DONE Episode 9: Writing in Emacs and Org mode, part 2
+CLOSED: [2019-04-22 Mon 18:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: episode_9
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "1ba6bf32-02fa-4ab1-bbb8-8713720f608f", :youtube_id "", :reddit_url "https://reddit.com/r/emacs/"
+:END:
+
+Let's continue talking about writing short and long texts in Emacs. This is part 2 of 2. See [[/episode_8/][part 1]].
+
+*** Shownotes
+
+**** Intro
+- My talk [[https://www.youtube.com/watch?v=Uij-BvG_f58][Decentralized evolutionary computation with Clojure and ClojureScript]]
+**** Config news
+- [[https://old.reddit.com/r/emacs/comments/b0jzy4/emacscast_8_writing_in_emacs_and_org_mode_part_1/eikvm97/][fritzgrabo's helpful comment]]
+- Make counsel-git see untracked files:  =(setq counsel-git-cmd "git ls-files --full-name --exclude-standard --others --cached --")=
+- [[https://www.youtube.com/watch?v=CTOhosGQ2f0][My Emacs workflow]] video
+- [[https://old.reddit.com/r/emacs/comments/b0jzy4/emacscast_8_writing_in_emacs_and_org_mode_part_1/eiiywwm/][celeritasCelery's project.el + counsel.git]] solution to project navigation
+- [[https://tonsky.me/][Nikita Prokopov]]
+- [[https://grumpy.website/][grumpy.website]]
+- Consider [[https://www.patreon.com/abo_abo][supporting Oleh Krehel (abo-abo) on Patreon]]. He created and maintains swiper, hydra, lispy, avy and many other [[https://github.com/abo-abo][awesome extensions]].
+- [[https://emacscast.org/episode_5/][Episode 5 of EmacsCast]] that includes the description of my move from Helm to Ivy
+- [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Visual-Line-Mode.html][Visual Line Mode]]
+- [[https://oremacs.com/2019/04/07/swiper-isearch/][Swiper-isearch - a more isearch-like swiper]]
+**** Writing
+- [[https://orgmode.org/manual/Structure-editing.html][Structure editing in org]] (including narrowing and widening)
+- [[https://github.com/balddotcat/ox-slimhtml][ox-slimhtml]]
+- [[https://github.com/freetonik/emacs-dotfiles#slim-html-export][Snippet: copy org as html into clipboard]]
+- [[https://github.com/jrblevin/markdown-mode][Markdown mode]]
+- [[https://github.com/freetonik/emacs-dotfiles#markdown][Snipper: copy Markdown as html into clipboard]]
+- [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Spelling.html][Checking and Correcting Spelling]]
+- [[https://github.com/SavchenkoValeriy/emacs-powerthesaurus][Powerthesaurus integration]]
+
+* Footnotes
+* COMMENT Local Variables                          :ARCHIVE:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:

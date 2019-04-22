@@ -3,10 +3,10 @@ title = "Episode 8: Writing in Emacs and Org mode, part 1"
 author = ["Rakhim Davletkaliyev"]
 date = 2019-03-13T11:17:00+02:00
 draft = false
-creator = "Emacs 26.1 (Org mode 9.1.9 + ox-hugo)"
+creator = "Emacs 26.2 (Org mode 9.1.9 + ox-hugo)"
 file_id = "3ed1fa21-9dde-4ede-8052-ef234c952482"
 youtube_id = "XANSnQ8IymU"
-reddit_url = "https://www.reddit.com/r/emacs/"
+reddit_url = "https://old.reddit.com/r/emacs/comments/b0jzy4/emacscast_8_writing_in_emacs_and_org_mode_part_1/"
 +++
 
 Let's talk about writing short and long texts, blog posts and books in Emacs. Outlining, exporting and publishing. This is part 1 of 2.
