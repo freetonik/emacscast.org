@@ -6,6 +6,7 @@ draft = false
 creator = "Emacs 26.3 (Org mode 9.1.9 + ox-hugo)"
 file_id = "ae621b11-c7de-4177-a819-0d51c3f65abc"
 youtube_id = "Lil_4a1FVPg"
+reddit_url = "https://old.reddit.com/r/emacs/comments/dtfqxz/emacscast_10_obsession_small_tweaks_and_hyper_key/"
 +++
 
 After a long break, let's get back into Emacs and talk about obsessions, small tweaks and improvements in my config, arrows and an additional modal key which could help with long, hard-to-remember Emacs key combinations.
