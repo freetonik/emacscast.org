@@ -267,6 +267,31 @@ Let's continue talking about writing short and long texts in Emacs. This is part
 - [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Spelling.html][Checking and Correcting Spelling]]
 - [[https://github.com/SavchenkoValeriy/emacs-powerthesaurus][Powerthesaurus integration]]
 
+** DONE Episode 10: Obsession, small tweaks and Hyper key
+CLOSED: [2019-11-08 Fri 14:38]
+:PROPERTIES:
+:EXPORT_FILE_NAME: episode_10
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :file_id "ae621b11-c7de-4177-a819-0d51c3f65abc", :youtube_id "Lil_4a1FVPg"
+:END:
+
+After a long break, let's get back into Emacs and talk about obsessions, small tweaks and improvements in my config, arrows and an additional modal key which could help with long, hard-to-remember Emacs key combinations.
+
+*** Shownotes
+**** Intro
+- [[https://rakhim.org/2014/12/obsession/][Dreaming of obsession]]
+- *[[https://podcast.codexpanse.com/][My new podcast about Computer science, programming and math]]*
+
+**** Config news
+- [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Abbrevs.html][Abbrev mode]]
+- [[https://github.com/joaotavora/yasnippet][YAsnippet]]
+- [[https://github.com/abo-abo/avy][avy]]
+- [[https://emacscast.org/episode_5/][Episode 5: Blogging with Org mode and Emacs]]
+
+**** Hyper key
+- [[https://pqrs.org/osx/karabiner/][Karabiner Elements]]
+- [[https://www.nadeau.tv/post/configure-hyper-key-osx/][Configure a Hyper Key on OSX]]
+- [[https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6][Karabiner God Mode]]
+
 * Footnotes
 * COMMENT Local Variables                          :ARCHIVE:
 # Local Variables:

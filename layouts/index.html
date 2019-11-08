@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+{{if not .IsHome }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
+{{ .Content }}
+
+{{ range (where .Site.RegularPages "Section" "!=" "") }}
+<article>
+  <h1><a href="{{ .URL }}">{{ .Title }}</a></h1>
+
+  {{ partial "player.html" . }}
+
+  {{ .Content }}
+  <p>
+    <i class="date">{{ .Date.Format "January 2, 2006" }}</i>
+    /
+    <a href="{{ .URL }}">permalink</a>
+  </p>
+</article>
+{{ end }}
+
+{{ partial "footer.html" . }}
