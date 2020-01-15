@@ -1,6 +1,6 @@
 * EmacsCast.org
 
-A podcast about exploring Emacs with beginner's mind. *Go to [[https://emacscast.org/][emacscast.org]] to get all episode, full shownotes and reference links.*
+A podcast about exploring Emacs with beginner's mind. *Go to [[https://emacscast.org/][emacscast.org]] to get all episodes, full shownotes and reference links.*
 
 [[./cover.jpg]]
 
